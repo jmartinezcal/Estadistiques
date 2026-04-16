@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/drawable_o9.jpg.flat",
+        "source": "com.example.estadistiques.app-main-9:/drawable/o9.jpg"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.estadistiques.app-main-9:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.estadistiques.app-main-9:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.estadistiques.app-main-9:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/drawable_banquillo.jpg.flat",
+        "source": "com.example.estadistiques.app-main-9:/drawable/banquillo.jpg"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/drawable_basquet_fallat.jpg.flat",
+        "source": "com.example.estadistiques.app-main-9:/drawable/basquet_fallat.jpg"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.estadistiques.app-main-9:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/layout_seleccionar_jugador.xml.flat",
+        "source": "com.example.estadistiques.app-main-9:/layout/seleccionar_jugador.xml"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/drawable_basquet_llivia.jpg.flat",
+        "source": "com.example.estadistiques.app-main-9:/drawable/basquet_llivia.jpg"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.estadistiques.app-main-9:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/layout_prova_capsalera.xml.flat",
+        "source": "com.example.estadistiques.app-main-9:/layout/prova_capsalera.xml"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.estadistiques.app-main-9:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/drawable_m4.jpg.flat",
+        "source": "com.example.estadistiques.app-main-9:/drawable/m4.jpg"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/drawable_d13.jpg.flat",
+        "source": "com.example.estadistiques.app-main-9:/drawable/d13.jpg"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/drawable_g3.jpg.flat",
+        "source": "com.example.estadistiques.app-main-9:/drawable/g3.jpg"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/drawable_banqueta.jpg.flat",
+        "source": "com.example.estadistiques.app-main-9:/drawable/banqueta.jpg"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.estadistiques.app-main-9:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/layout_item_grid.xml.flat",
+        "source": "com.example.estadistiques.app-main-9:/layout/item_grid.xml"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.estadistiques.app-main-9:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.estadistiques.app-main-9:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.estadistiques.app-main-9:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/drawable_banquillo2.jpg.flat",
+        "source": "com.example.estadistiques.app-main-9:/drawable/banquillo2.jpg"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.estadistiques.app-main-9:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/layout_menu_inicial.xml.flat",
+        "source": "com.example.estadistiques.app-main-9:/layout/menu_inicial.xml"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.estadistiques.app-main-9:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.estadistiques.app-main-9:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/drawable_l28.jpg.flat",
+        "source": "com.example.estadistiques.app-main-9:/drawable/l28.jpg"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/layout_activity_main.xml.flat",
+        "source": "com.example.estadistiques.app-main-9:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/layout_item_listview_resum.xml.flat",
+        "source": "com.example.estadistiques.app-main-9:/layout/item_listview_resum.xml"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.estadistiques.app-main-9:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/drawable_basquet.jpg.flat",
+        "source": "com.example.estadistiques.app-main-9:/drawable/basquet.jpg"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/layout_estadistiques.xml.flat",
+        "source": "com.example.estadistiques.app-main-9:/layout/estadistiques.xml"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/drawable_e6.jpg.flat",
+        "source": "com.example.estadistiques.app-main-9:/drawable/e6.jpg"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/drawable_tap.jpg.flat",
+        "source": "com.example.estadistiques.app-main-9:/drawable/tap.jpg"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/drawable_rebote.jpg.flat",
+        "source": "com.example.estadistiques.app-main-9:/drawable/rebote.jpg"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/layout_resum.xml.flat",
+        "source": "com.example.estadistiques.app-main-9:/layout/resum.xml"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.estadistiques.app-main-9:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/drawable_n5.jpg.flat",
+        "source": "com.example.estadistiques.app-main-9:/drawable/n5.jpg"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/drawable_pistah.jpg.flat",
+        "source": "com.example.estadistiques.app-main-9:/drawable/pistah.jpg"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/drawable_pista.jpg.flat",
+        "source": "com.example.estadistiques.app-main-9:/drawable/pista.jpg"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/drawable_pistah2.jpg.flat",
+        "source": "com.example.estadistiques.app-main-9:/drawable/pistah2.jpg"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.estadistiques.app-main-9:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.estadistiques.app-main-9:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.estadistiques.app-main-9:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.estadistiques.app-main-9:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/drawable_p7.jpg.flat",
+        "source": "com.example.estadistiques.app-main-9:/drawable/p7.jpg"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/drawable_a15.jpg.flat",
+        "source": "com.example.estadistiques.app-main-9:/drawable/a15.jpg"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/xml_backup_rules.xml.flat",
+        "source": "com.example.estadistiques.app-main-9:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.estadistiques.app-merged_res-8:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.estadistiques.app-main-9:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

@@ -1,0 +1,11 @@
+com.example.estadistiques.app-coordinatorlayout-28.0.0-0 C:\Users\jmart\.gradle\caches\transforms-3\163de9b8717f6ccbb023046f332a2697\transformed\coordinatorlayout-28.0.0\res
+com.example.estadistiques.app-appcompat-v7-28.0.0-1 C:\Users\jmart\.gradle\caches\transforms-3\176e2cb87ca60634b7f06bd4bd6aa64f\transformed\appcompat-v7-28.0.0\res
+com.example.estadistiques.app-constraint-layout-2.0.4-2 C:\Users\jmart\.gradle\caches\transforms-3\3be7da04de2ebb89841f984c4e811a63\transformed\constraint-layout-2.0.4\res
+com.example.estadistiques.app-support-compat-28.0.0-3 C:\Users\jmart\.gradle\caches\transforms-3\bc75f1cc23ddb61cebc1fd590824ad73\transformed\support-compat-28.0.0\res
+com.example.estadistiques.app-pngs-4 C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\build\generated\res\pngs\debug
+com.example.estadistiques.app-resValues-5 C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\build\generated\res\resValues\debug
+com.example.estadistiques.app-packageDebugResources-6 C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.estadistiques.app-packageDebugResources-7 C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.estadistiques.app-merged_res-8 C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\build\intermediates\merged_res\debug
+com.example.estadistiques.app-debug-9 C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\debug\res
+com.example.estadistiques.app-main-10 C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\res

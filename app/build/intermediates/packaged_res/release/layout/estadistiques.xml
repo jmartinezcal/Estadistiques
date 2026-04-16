@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layout_capsalera">
+
+        <ImageView
+            android:id="@+id/foto_estadistica"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:id="@+id/dorsal_nom_estadistica"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="10dp"
+            android:textSize="32dp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_rebots"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:background="@drawable/rebote"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/bt_rof"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rebot Ofensiu" />
+
+        <Button
+            android:id="@+id/bt_rdef"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rebot Defensiu" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layout_tirs_ficats"
+        android:background="@drawable/basquet"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/bt_tllficat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1 ficat" />
+
+        <Button
+            android:id="@+id/bt_t2ficat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2 ficat" />
+
+        <Button
+            android:id="@+id/bt_t3ficat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3 ficat" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layout_tirs_fallats"
+        android:background="@drawable/basquet_fallat"
+        android:gravity="center">
+
+        <Button
+        android:id="@+id/bt_tllfallat"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1 fallat" />
+
+        <Button
+            android:id="@+id/bt_t2fallat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2 fallat" />
+
+        <Button
+            android:id="@+id/bt_t3fallat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3 fallat" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/layout_altres"
+        android:orientation="vertical"
+        android:background="@drawable/tap">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/bt_tap"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Tap" />
+
+            <Button
+                android:id="@+id/bt_assistencia"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Assistència" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/bt_robatori"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Robatori" />
+
+            <Button
+                android:id="@+id/bt_pilota_perduda"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Pèrdua" />
+
+            <Button
+                android:id="@+id/bt_falta_personal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Falta Personal"/>
+    </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

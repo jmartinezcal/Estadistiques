@@ -1,0 +1,69 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.estadistiques"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:5:5-29:19
+12        android:allowBackup="true"
+12-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+13-->[com.android.support:support-compat:28.0.0] C:\Users\jmart\.gradle\caches\transforms-3\bc75f1cc23ddb61cebc1fd590824ad73\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:7:9-65
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:fullBackupContent="@xml/backup_rules"
+17-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:8:9-54
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:9:9-43
+19        android:label="@string/app_name"
+19-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:10:9-41
+20        android:supportsRtl="true"
+20-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:11:9-35
+21        android:testOnly="true"
+22        android:theme="@style/Theme.Estadistiques" >
+22-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:12:9-51
+23        <activity
+23-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:14:9-22:20
+24            android:name="com.example.estadistiques.Menu"
+24-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:15:13-33
+25            android:exported="true" >
+25-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:16:13-36
+26            <intent-filter>
+26-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:17:13-21:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:18:17-69
+27-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:18:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:20:17-77
+29-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:20:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity android:name="com.example.estadistiques.MainActivity" />
+32-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:23:9-59
+32-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:23:19-47
+33        <activity android:name="com.example.estadistiques.SeleccionarJugador" />
+33-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:24:9-65
+33-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:24:19-53
+34        <activity android:name="com.example.estadistiques.Estadistiques" />
+34-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:25:9-60
+34-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:25:19-48
+35        <activity
+35-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:26:9-28:20
+36            android:name="com.example.estadistiques.Resum"
+36-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:26:19-40
+37            android:screenOrientation="landscape" >
+37-->C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\src\main\AndroidManifest.xml:27:13-50
+38        </activity>
+39    </application>
+40
+41</manifest>

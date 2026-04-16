@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/ly_prova_capsalera">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Num"
+        android:gravity="center"/>
+
+    <TextView
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:text="Jug"
+        android:gravity="left"/>
+
+    <TextView
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:text="Tirs 1"
+        android:paddingLeft="1dp"/>
+
+    <TextView
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:text="% 1"
+        android:background="@color/verd_Llivia"/>
+
+    <TextView
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:text="Tirs 2" />
+
+    <TextView
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:text="% 2"
+        android:background="@color/verd_Llivia"/>
+
+    <TextView
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:text="Tirs 3" />
+
+    <TextView
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:text="% 3"
+        android:background="@color/verd_Llivia"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Reb.OF" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Reb.DEF"
+        android:background="@color/verd_Llivia"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Taps" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Asist"
+        android:background="@color/verd_Llivia"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rob" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Perd"
+        android:background="@color/verd_Llivia"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Faltes" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Punts"
+        android:background="@color/verd_Llivia"/>
+
+</LinearLayout>

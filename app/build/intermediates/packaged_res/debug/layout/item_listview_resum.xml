@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:stretchColumns="16">
+
+
+    <TableRow>
+
+    <TextView
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:text="13"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:paddingLeft="1dp"
+        android:id="@+id/resum_dorsal"
+        android:gravity="center"/>
+
+    <LinearLayout
+        android:layout_width="70dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:paddingLeft="1dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/foto_jugador"
+            android:src="@drawable/d13"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="bottom"
+            android:maxLines="1"
+            android:id="@+id/dorsal_jugador"
+            android:text="David Martínez"
+            android:gravity="center"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:text="Tirs 1"
+        android:id="@+id/resum_tirs1"
+        android:paddingLeft="1dp"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:text="% 1"
+        android:id="@+id/resum_1_100"
+        android:background="@color/verd_Llivia"
+        android:paddingLeft="1dp"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:text="Tirs 2"
+        android:id="@+id/resum_tirs2"
+        android:paddingLeft="1dp"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:text="% 2"
+        android:id="@+id/resum_2_100"
+        android:paddingLeft="1dp"
+        android:background="@color/verd_Llivia"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:text="Tirs 3"
+        android:id="@+id/resum_tirs3"
+        android:paddingLeft="1dp"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:text="% 3"
+        android:id="@+id/resum_3_100"
+        android:paddingLeft="1dp"
+        android:background="@color/verd_Llivia"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="42dp"
+        android:layout_height="wrap_content"
+        android:text="Reb.OF"
+        android:id="@+id/resum_rof"
+        android:paddingLeft="1dp"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="42dp"
+        android:layout_height="match_parent"
+        android:text="Reb.DEF"
+        android:id="@+id/resum_rdef"
+        android:paddingLeft="1dp"
+        android:background="@color/verd_Llivia"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:text="Taps"
+        android:id="@+id/resum_tap"
+        android:paddingLeft="1dp"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="40dp"
+        android:layout_height="match_parent"
+        android:text="Asist"
+        android:id="@+id/resum_assist"
+        android:paddingLeft="1dp"
+        android:background="@color/verd_Llivia"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:text="Rob"
+        android:id="@+id/resum_rob"
+        android:paddingLeft="1dp"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="40dp"
+        android:layout_height="match_parent"
+        android:text="Perd"
+        android:id="@+id/resum_perd"
+        android:paddingLeft="1dp"
+        android:background="@color/verd_Llivia"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:text="Faltes"
+        android:id="@+id/resum_falta"
+        android:paddingLeft="1dp"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="40dp"
+        android:layout_height="match_parent"
+        android:text="Punts"
+        android:id="@+id/resum_punts"
+        android:paddingLeft="1dp"
+        android:background="@color/verd_Llivia"
+        android:gravity="center_horizontal"/>
+
+    </TableRow>
+
+</TableLayout>

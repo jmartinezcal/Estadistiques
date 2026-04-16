@@ -1,0 +1,4 @@
+com.example.estadistiques.test.app-androidTest-0 C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\build\generated\res\resValues\androidTest\debug
+com.example.estadistiques.test.app-mergeDebugAndroidTestResources-1 C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.estadistiques.test.app-mergeDebugAndroidTestResources-2 C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.estadistiques.test.app-merged_res-3 C:\Users\jmart\AndroidStudioProjects\Estadistiques\app\build\intermediates\merged_res\debugAndroidTest
